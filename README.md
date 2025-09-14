@@ -6,5 +6,5 @@ This paper proposes a novel constraint-based loss function to simultaneously imp
 Paper Link : 
 <br><br><br>
 sdsd
-<img width="1000" height="800" alt="Image" src="https://github.com/user-attachments/assets/5382e1c0-bf6d-4f85-8a03-a146083dd52a" />
+<img width="530" height="530" alt="Image" src="https://github.com/user-attachments/assets/5382e1c0-bf6d-4f85-8a03-a146083dd52a" />
 <img width="530" height="530" alt="Image" src="https://github.com/user-attachments/assets/71fc1596-8deb-49e7-9ab9-5e8ee7cb2448" />
