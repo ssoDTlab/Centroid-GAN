@@ -2,4 +2,5 @@
 ### <b>Abstract</b><br>
 This paper proposes a novel constraint-based loss function to simultaneously improve the image quality and diversity of Generative Adversarial Networks (GANs). The proposed method first embeds the training dataset into a feature space using a pretrained neural network, and computes the centroid of the distribution. The average distance between each feature vector and the centroid is then defined as the reference distance. During training, generated images are also embedded into the same feature space, and if the feature vectors of generated images deviate from the centroid beyond the reference distance, a penalty is added to the loss function. This constraint guides the generator to produce images within the distributional range of real data, thereby effectively maintaining a balance between quality and diversity. Experiments conducted on the CelebA dataset demonstrate that the proposed approach outperforms conventional methods in terms of both FID and LPIPS metrics.
 <br>
+
 Paper Link : 
